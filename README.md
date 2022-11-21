@@ -3,5 +3,5 @@
 <h3>Currently learning:</h3>
 **Python/Django, C++
 
-
+<br>
 Currently working on: Social media project.
