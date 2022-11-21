@@ -4,4 +4,4 @@
 **Python/Django, C++
 
 <br>
-Currently working on: Social media project.
+<b>Currently working on:</b> Social media project.
